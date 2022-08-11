@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * Repository: https://github.com/lugovov/curl-php/
+ */
+
 class Curl{
 	private $options	= array();
 	private $handler	= false;
